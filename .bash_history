@@ -149,3 +149,46 @@ clear
 git add index.html
 git init
 git commit -m "adicionado arquivo index.html"
+git init
+git add index.html
+git commit -m "adicionado arquivo index.html"
+git commit -am "adicionado arquivo index.html"
+cd gama-no-git
+cd gama-no-github
+git add index.html
+git add README.MD
+git add listaprodutos.html
+git add script.js
+git commit -m "adicionado arquivo index.html"
+git config user.email "merhi.taha@gmail.com"
+git commit -m "adicionado arquivo index.html"
+git add script.js
+git add listaprodutos.html
+git add README.MD
+git add index.html
+git commit -am "atualizado arquivo index.html novamente"
+git checkout master
+cd gama-no-github
+git checkout gama-no-github
+git commit -am "atualizado arquivo index.html novamente"
+git push
+git pull
+git clone https://github.com/mmtaha/gama-no-pullrequest.git
+git init
+git config user.email "merhi.taha@gmail.com"
+git add index.html
+git commit -m"adicionado arquivo index.html"
+git branch -d feature/gama/
+git branch -d gama/
+git gama/
+git branch gama/
+git push --set-upstream <remote> <branch>
+cd gama
+git branch gama
+git checkout gama
+git commit -m"adicionado nova branch gama"
+clear
+git commit -m"adicionado nova branch gama"
+clear
+git push --set-upstream <remote> <branch>
+git commit -m"adicionado nova branch gama/Merhi"
